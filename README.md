@@ -37,6 +37,9 @@ cd hexagonal-architecture
 ```
 ## Referencial teórico
 
-## Comandos uteis
+Arquitetura Hexagonal: O que você precisa saber [Video](https://www.youtube.com/watch?v=or5zAOASPjU)
+
+
+## Comandos úteis
 // Para atualizar o mock após modificar o arquivo product.go
 mockgen -destination=application/mocks/application.go -source=application/product.go application
